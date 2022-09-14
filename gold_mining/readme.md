@@ -28,9 +28,3 @@
 
 ###Используемый стек инструментов  
 
-Python
-Pandas
-Matplotlib
-NumPy
-Scikit-learn
-исследовательский анализ данных
