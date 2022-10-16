@@ -12,5 +12,6 @@
 3   | [Исследование технологического процесса добычи золота](https://github.com/OlshanitskiJon/Yandex.Practicum-DS_37/tree/main/3.%20Gold_mining) | Прогнозирование концентрации золота при проведении процесса добычи из исходного сырья | Python, Pandas, Matplotlib, NumPy, Scikit-learn, Исследовательский анализ данных
 4  | [Прогнозирование количества заказов такси на следующий час](https://github.com/OlshanitskiJon/Yandex.Practicum-DS_37/tree/main/4.%20Taxi) | Разработка системы предсказания объема заказа | Python, Pandas, Scikit-learn, Statsmodels
 5 |[Определение возраста покупателя](https://github.com/OlshanitskiJon/Yandex.Practicum-DS_37/tree/main/5.%20Age)|Обучение модели определяющей возраст по фотографии|Python, Keras, Matplotlib
+6|[Исследование надежности заемщиков](https://github.com/OlshanitskiJon/Yandex.Practicum-DS_37/tree/main/6.%20Debt)|Определение портрета наиболее надежного заемщика|Python, Numpy, Matplotlib
 
 
